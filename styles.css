@@ -1,0 +1,27 @@
+    body {
+		padding: 60px 0px;
+		background-color: lightgrey;
+	}
+	#open-video {
+		padding: 10px;
+	}
+	.video{
+		display: block;
+	}
+	.embed-responsive{
+		display: none;
+	}
+	.jumbotron{
+		text-align: bottom;
+		font-size: 60px;
+		color: white;
+		background: url('Jumbotron.jpg') no-repeat center center;
+  		position: static;
+  		width: 100%;
+ 		height: 450px; 
+  		top:0;
+  		left:0;
+  	}
+  	.about {
+  		margin: 0;
+   	}
